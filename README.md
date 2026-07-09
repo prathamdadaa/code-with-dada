@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/prathamdadaa/code-with-dada/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/prathamdadaa/code-with-dada/tree/master/1382-balance-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
