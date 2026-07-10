@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/prathamdadaa/code-with-dada/tree/master/1382-balance-a-binary-search-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,13 +45,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
