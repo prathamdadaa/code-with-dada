@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
