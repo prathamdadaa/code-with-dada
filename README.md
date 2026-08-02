@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prathamdadaa/code-with-dada/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
