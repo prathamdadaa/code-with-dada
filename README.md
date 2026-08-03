@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prathamdadaa/code-with-dada/tree/master/0002-add-two-numbers) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prathamdadaa/code-with-dada/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prathamdadaa/code-with-dada/tree/master/0025-reverse-nodes-in-k-group) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prathamdadaa/code-with-dada/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/prathamdadaa/code-with-dada/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prathamdadaa/code-with-dada/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
