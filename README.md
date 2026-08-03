@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
