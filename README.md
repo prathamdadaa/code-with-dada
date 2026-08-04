@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/prathamdadaa/code-with-dada/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prathamdadaa/code-with-dada/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/prathamdadaa/code-with-dada/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/prathamdadaa/code-with-dada/tree/master/0013-roman-to-integer) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/prathamdadaa/code-with-dada/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/prathamdadaa/code-with-dada/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/prathamdadaa/code-with-dada/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/prathamdadaa/code-with-dada/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathamdadaa/code-with-dada/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prathamdadaa/code-with-dada/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/prathamdadaa/code-with-dada/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
