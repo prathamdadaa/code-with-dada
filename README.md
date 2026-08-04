@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/prathamdadaa/code-with-dada/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/prathamdadaa/code-with-dada/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prathamdadaa/code-with-dada/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/prathamdadaa/code-with-dada/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prathamdadaa/code-with-dada/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prathamdadaa/code-with-dada/tree/master/0018-4sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
