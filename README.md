@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/prathamdadaa/code-with-dada/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prathamdadaa/code-with-dada/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prathamdadaa/code-with-dada/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prathamdadaa/code-with-dada/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
@@ -200,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
