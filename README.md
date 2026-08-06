@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prathamdadaa/code-with-dada/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamdadaa/code-with-dada/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prathamdadaa/code-with-dada/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/prathamdadaa/code-with-dada/tree/master/0038-count-and-say) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
