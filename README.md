@@ -247,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/prathamdadaa/code-with-dada/tree/master/0029-divide-two-integers) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
