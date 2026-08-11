@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/prathamdadaa/code-with-dada/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/prathamdadaa/code-with-dada/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/prathamdadaa/code-with-dada/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/prathamdadaa/code-with-dada/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/prathamdadaa/code-with-dada/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/prathamdadaa/code-with-dada/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prathamdadaa/code-with-dada/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/prathamdadaa/code-with-dada/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prathamdadaa/code-with-dada/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
 ## Bracket Sequences
 |  |
 | ------- |
