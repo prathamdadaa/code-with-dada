@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/prathamdadaa/code-with-dada/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/prathamdadaa/code-with-dada/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prathamdadaa/code-with-dada/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/prathamdadaa/code-with-dada/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/prathamdadaa/code-with-dada/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
