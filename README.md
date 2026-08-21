@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/prathamdadaa/code-with-dada/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prathamdadaa/code-with-dada/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/prathamdadaa/code-with-dada/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prathamdadaa/code-with-dada/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/prathamdadaa/code-with-dada/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
 ## Minimax
 |  |
 | ------- |
@@ -299,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/prathamdadaa/code-with-dada/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
