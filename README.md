@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/prathamdadaa/code-with-dada/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/prathamdadaa/code-with-dada/tree/master/0058-length-of-last-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
