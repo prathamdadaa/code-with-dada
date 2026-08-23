@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/prathamdadaa/code-with-dada/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/prathamdadaa/code-with-dada/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prathamdadaa/code-with-dada/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/prathamdadaa/code-with-dada/tree/master/0060-permutation-sequence) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/prathamdadaa/code-with-dada/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/prathamdadaa/code-with-dada/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/prathamdadaa/code-with-dada/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
