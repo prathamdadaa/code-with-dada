@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/prathamdadaa/code-with-dada/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prathamdadaa/code-with-dada/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/prathamdadaa/code-with-dada/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/prathamdadaa/code-with-dada/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/prathamdadaa/code-with-dada/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/prathamdadaa/code-with-dada/tree/master/0056-merge-intervals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/prathamdadaa/code-with-dada/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prathamdadaa/code-with-dada/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
