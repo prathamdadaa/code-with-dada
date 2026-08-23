@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/prathamdadaa/code-with-dada/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/prathamdadaa/code-with-dada/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/prathamdadaa/code-with-dada/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/prathamdadaa/code-with-dada/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prathamdadaa/code-with-dada/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prathamdadaa/code-with-dada/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/prathamdadaa/code-with-dada/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prathamdadaa/code-with-dada/tree/master/0084-largest-rectangle-in-histogram) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/prathamdadaa/code-with-dada/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prathamdadaa/code-with-dada/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/prathamdadaa/code-with-dada/tree/master/0055-jump-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 ## Recursion
