@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/prathamdadaa/code-with-dada/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prathamdadaa/code-with-dada/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/prathamdadaa/code-with-dada/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/prathamdadaa/code-with-dada/tree/master/0062-unique-paths) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/prathamdadaa/code-with-dada/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prathamdadaa/code-with-dada/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prathamdadaa/code-with-dada/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/prathamdadaa/code-with-dada/tree/master/0062-unique-paths) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prathamdadaa/code-with-dada/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1406-stone-game-iii](https://github.com/prathamdadaa/code-with-dada/tree/master/1406-stone-game-iii) |
 ## Recursion
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prathamdadaa/code-with-dada/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prathamdadaa/code-with-dada/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
