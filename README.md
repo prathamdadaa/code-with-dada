@@ -2,7 +2,7 @@
 # LeetCode Solutions.
 Hi, I'm Pratham Dada.
 A collection of LeetCode questions to ace the coding interview! 
-
+  
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
